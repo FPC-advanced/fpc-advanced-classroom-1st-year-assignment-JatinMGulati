@@ -17,3 +17,32 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem04_session.txt
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> gcc -g "c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem01.c" -o "c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem01.exe" 2>&1
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem01.exe
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git add .
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git commit -m "committed 10/17/2023, 12:03:24 PM"
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git push
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git config --global user.email "jmgulati007@gmail.com"Stop-Transcript
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git add .
+
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git commit -m "committed 10/17/2023, 12:10:31 PM"
+[main 7d4b1d2] committed 10/17/2023, 12:10:31 PM
+ 17 files changed, 547 insertions(+), 1 deletion(-)
+ create mode 100644 .vscode/c_cpp_properties.json
+ create mode 100644 .vscode/launch.json
+ create mode 100644 .vscode/settings.json
+ create mode 100644 set01/problem01_compile_errors.txt
+ create mode 100644 set01/problem04_session.txt
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git push
+Total 20 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-JatinMGulati.git
+   6c1ae7b..7d4b1d2  main -> main
+PS C:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati> git comfig --global user.name "JatinMGulati"
+
