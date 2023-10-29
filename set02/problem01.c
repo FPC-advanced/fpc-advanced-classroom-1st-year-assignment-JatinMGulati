@@ -12,5 +12,5 @@ int main()
 }
 void input(float *base, float *height)
 {
-    printf("enter the va")
+    printf("enter the value of base:")
 }
