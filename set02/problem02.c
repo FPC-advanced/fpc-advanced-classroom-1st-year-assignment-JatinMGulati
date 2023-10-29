@@ -7,5 +7,7 @@ void output(int a, int b, int c, int isscalene);
 int main()
 {
     int a,b,c,isscalene;
+    
 }
+
 
