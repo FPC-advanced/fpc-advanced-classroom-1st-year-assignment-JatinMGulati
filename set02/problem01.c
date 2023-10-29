@@ -8,7 +8,8 @@ int main()
 {
     int base,height,area;
     input(&base,&height);
-    find_area()
+    find_area(base,height,&area);
+    output(base,height,area);
 }
 void input(float *base, float *height)
 {
