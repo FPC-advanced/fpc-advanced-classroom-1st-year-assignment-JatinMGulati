@@ -11,7 +11,8 @@ int main()
 }
 int input_side()
 {
+    int x;
     printf("Enter the value:");
-    
+    scanf()
 }
 
