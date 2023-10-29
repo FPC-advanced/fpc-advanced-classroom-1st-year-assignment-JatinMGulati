@@ -14,5 +14,6 @@ void input(float *base, float *height)
 {
     printf("Enter the value of base:");
     scanf("%f",*base);
-    printf("Enter the value of height")
+    printf("Enter the value of height:");
+    scanf
 }
