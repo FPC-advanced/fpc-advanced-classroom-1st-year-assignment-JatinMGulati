@@ -1,0 +1,81 @@
+Compilation started at 10/30/2023, 4:12:24 AM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:11: warning: passing argument 1 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:17: warning: passing argument 2 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+                 ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:11:27: warning: passing argument 3 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(base,height,&area);
+                           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'int *'
+ void find_area(float base , float height, float *area);
+      ^~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'find_area':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:23:9: error: incompatible types when assigning to type 'float *' from type 'double'
+     area=0.5*base*height;
+         ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:27:1: error: expected declaration or statement at end of input
+ }
+ ^
+Compilation finished at 10/30/2023, 4:12:24 AM
+Compilation started at 10/30/2023, 4:12:32 AM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:11: warning: passing argument 1 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:17: warning: passing argument 2 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+                 ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:11:27: warning: passing argument 3 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(base,height,&area);
+                           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'int *'
+ void find_area(float base , float height, float *area);
+      ^~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'find_area':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:23:9: error: incompatible types when assigning to type 'float *' from type 'double'
+     area=0.5*base*height;
+         ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:27:1: error: expected declaration or statement at end of input
+ }
+ ^
+Compilation finished at 10/30/2023, 4:12:32 AM
+Compilation started at 10/30/2023, 4:12:49 AM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:11: warning: passing argument 1 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:10:17: warning: passing argument 2 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+                 ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'int *'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:11:27: warning: passing argument 3 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(base,height,&area);
+                           ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'int *'
+ void find_area(float base , float height, float *area);
+      ^~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c: In function 'find_area':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem01.c:23:9: error: incompatible types when assigning to type 'float *' from type 'double'
+     area=0.5*base*height;
+         ^
+Compilation finished at 10/30/2023, 4:12:49 AM
