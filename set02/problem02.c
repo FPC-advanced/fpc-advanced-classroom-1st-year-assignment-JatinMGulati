@@ -9,5 +9,8 @@ int main()
     int a,b,c,isscalene;
     
 }
-
+int input_side()
+{
+    printf("")
+}
 
