@@ -13,7 +13,7 @@ int main()
 void input(float *base, float *height)
 {
     printf("Enter the value of base:");
-    scanf("%f",*base);
+    scanf("%f",&base);
     printf("Enter the value of height:");
-    scanf("%f",)
+    scanf("%f",&height);
 }
