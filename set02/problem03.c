@@ -29,7 +29,6 @@ int is_composite(int n)
        {
         return 1;
        }
-       return 0;
     }
     }
     return 0;
