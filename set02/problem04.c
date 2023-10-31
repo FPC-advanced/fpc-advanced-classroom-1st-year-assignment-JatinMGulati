@@ -10,11 +10,12 @@ int main()
     int n,a[100],sum=0;
 
 }
-int input_array_size()
+int input_array()
 {
     printf("enter the value:");
     for(int i=0;i<n,i++)
     {
        scanf("%d",&a[i]);
     }
+    return a[n];
 }
