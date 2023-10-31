@@ -30,3 +30,31 @@ c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is o
  _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
                                       ^~~~~~
 Compilation finished at 10/31/2023, 6:22:42 AM
+Compilation started at 10/31/2023, 6:23:29 AM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c: In function 'input_number':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:18:12: warning: character constant too long for its type
+     printf('Enter the number:');
+            ^~~~~~~~~~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:18:12: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+In file included from c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:3:0:
+c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is of type 'int'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:19:11: warning: multi-character character constant [-Wmultichar]
+     scanf('%d',&x);
+           ^~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:19:11: warning: passing argument 1 of 'scanf' makes pointer from integer without a cast [-Wint-conversion]
+In file included from c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:3:0:
+c:\mingw\include\stdio.h:667:41: note: expected 'const char *' but argument is of type 'int'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int    scanf (const char *, ...);
+                                         ^~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c: In function 'output':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:39:16: warning: character constant too long for its type
+         printf('%d is not a composite number',n);
+                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:39:16: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+In file included from c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem03.c:3:0:
+c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is of type 'int'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+Compilation finished at 10/31/2023, 6:23:31 AM
