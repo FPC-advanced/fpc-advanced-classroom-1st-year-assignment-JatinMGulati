@@ -10,4 +10,7 @@ int main()
     int n,a[100],sum=0;
 
 }
-int input_array
+int input_array_size()
+{
+    for(int i=0;i,)
+}
