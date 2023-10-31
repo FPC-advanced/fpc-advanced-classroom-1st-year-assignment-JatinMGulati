@@ -12,7 +12,7 @@ int main()
 }
 int input_array_size()
 {
-    printf
+    printf()
 }
 int input_array(int n,int a[n])
 {
