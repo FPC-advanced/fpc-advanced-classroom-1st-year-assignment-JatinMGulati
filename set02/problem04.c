@@ -12,6 +12,7 @@ int main()
 }
 int input_array_size()
 {
+    int x;
     printf()
 }
 int input_array(int n,int a[n])
