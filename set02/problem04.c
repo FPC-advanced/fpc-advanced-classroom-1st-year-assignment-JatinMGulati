@@ -9,7 +9,7 @@ int main()
 {
     int n,a[100],sum=0;
     n=input_array_size();
-    a[n]=input_array();
+    input_array();
 
 }
 int input_array_size(int n, int a[n])
@@ -25,7 +25,6 @@ void input_array(int n,int a[n])
     {
        scanf("%d",&a[i]);
     }
-    return a[n];
 }
 int sum_composite_numbers(int n, int a[n])
 {
