@@ -15,7 +15,7 @@ int main()
 void input_array(int n, int a[n])
 {
     int x;
-    printf("Enter the array size:")
+    printf("Enter the array size:%d/n",n);
 }
 int input_array(int n,int a[n])
 {
@@ -43,5 +43,5 @@ int sum_composite_numbers(int n, int a[n])
 }
 void output(int sum)
 {
-    printf("Then sum if composite numbers in the set: %d",sum);
+    printf("Then sum if composite numbers in the set: %d/n",sum);
 }
