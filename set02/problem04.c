@@ -18,7 +18,7 @@ int input_array_size(int n, int a[n])
     printf("Enter the array size:%d/n",n);
     return x;
 }
-int input_array(int n,int a[n])
+void input_array(int n,int a[n])
 {
     printf("enter the value:");
     for(int i=0;i<n,i++)
