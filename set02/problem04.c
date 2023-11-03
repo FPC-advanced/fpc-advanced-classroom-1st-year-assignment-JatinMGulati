@@ -14,9 +14,8 @@ int main() {
 
     input_array(n, a);
 
-    sum = sum_composite_numbers(n, a);  // Calculate the sum of composite numbers
-
-    output(sum);  // Display the sum of composite numbers
+    sum = sum_composite_numbers(n, a);
+    output(sum);
 
     return 0;
 }
