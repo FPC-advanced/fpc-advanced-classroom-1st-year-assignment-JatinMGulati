@@ -33,7 +33,7 @@ int sum_composite_numbers(int n, int a[n])
     {
         return 0;
     }
-    for(int i=2;i,num;i++)
+    for(int i=2;i<num;i++)
     {
         if(num%i==0)
         {
