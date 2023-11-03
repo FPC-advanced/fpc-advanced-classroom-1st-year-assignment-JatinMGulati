@@ -60,3 +60,33 @@ c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
         ^~~
 c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:29:8: note: each undeclared identifier is reported only once for each function it appears in
 Compilation finished at 11/3/2023, 10:57:00 PM
+Compilation started at 11/3/2023, 11:06:21 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:12:5: error: too few arguments to function 'input_array'
+     input_array();
+     ^~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:4:6: note: declared here
+ void input_array(int n, int a[n]);
+      ^~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:13:9: error: too few arguments to function 'sum_composite_numbers'
+     sum=sum_composite_numbers();
+         ^~~~~~~~~~~~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:5:5: note: declared here
+ int sum_composite_numbers(int n, int a[n]);
+     ^~~~~~~~~~~~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:14:5: error: too few arguments to function 'output'
+     output();
+     ^~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:6:6: note: declared here
+ void output(int sum);
+      ^~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'input_array':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:25:24: error: expected ';' before ')' token
+     for(int i=0;i<n,i++)
+                        ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'sum_composite_numbers':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:32:8: error: 'num' undeclared (first use in this function)
+     if(num<=1)
+        ^~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:32:8: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 11/3/2023, 11:06:21 PM
