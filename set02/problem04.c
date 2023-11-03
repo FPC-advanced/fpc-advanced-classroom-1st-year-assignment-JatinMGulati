@@ -36,10 +36,12 @@ int sum_composite_numbers(int n, int a[n])
     }
     for(int i=2;i<num;i++)
     {
-        if(num%i==0)
+      if(num%i==0)
         {
-            return 1;
-        }
+         for (int i = 0; i < n; i++) {
+         if (is_composite(a[i])) {
+            sum += a[i];
+       }
     }
     return 0;
     
