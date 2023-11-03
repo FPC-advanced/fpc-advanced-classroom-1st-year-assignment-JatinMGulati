@@ -10,7 +10,8 @@ int main()
     int n,a[100],sum=0;
     n=input_array_size();
     input_array();
-
+    sum=sum_composite_numbers();
+    output();
 }
 int input_array_size(int n, int a[n])
 {
