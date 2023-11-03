@@ -1,0 +1,33 @@
+Compilation started at 11/3/2023, 10:56:30 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'input_array_size':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:16:5: error: too few arguments to function 'printf'
+     printf()
+     ^~~~~~
+In file included from c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:2:0:
+c:\mingw\include\stdio.h:454:38: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:17:1: error: expected ';' before '}' token
+ }
+ ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: At top level:
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:18:5: error: conflicting types for 'input_array'
+ int input_array(int n,int a[n])
+     ^~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:4:6: note: previous declaration of 'input_array' was here
+ void input_array(int n, int a[n]);
+      ^~~~~~~~~~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'input_array':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:21:24: error: expected ';' before ')' token
+     for(int i=0;i<n,i++)
+                        ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'sum_composite_numbers':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:29:8: error: 'num' undeclared (first use in this function)
+     if(num<=1)
+        ^~~
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:29:8: note: each undeclared identifier is reported only once for each function it appears in
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c: In function 'output':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set02\problem04.c:45:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation finished at 11/3/2023, 10:56:31 PM
