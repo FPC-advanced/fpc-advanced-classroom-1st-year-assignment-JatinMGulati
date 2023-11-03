@@ -8,7 +8,7 @@ void output(int sum);
 int main()
 {
     int n,a[100],sum=0;
-
+    
 }
 int input_array_size()
 {
