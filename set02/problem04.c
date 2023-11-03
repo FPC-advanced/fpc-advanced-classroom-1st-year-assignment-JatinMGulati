@@ -12,10 +12,11 @@ int main()
     a[n]=input_array();
 
 }
-void input_array(int n, int a[n])
+int input_array_size(int n, int a[n])
 {
     int x;
     printf("Enter the array size:%d/n",n);
+    return x;
 }
 int input_array(int n,int a[n])
 {
