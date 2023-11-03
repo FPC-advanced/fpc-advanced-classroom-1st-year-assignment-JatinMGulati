@@ -8,6 +8,8 @@ void output(int sum);
 int main()
 {
     int n,a[100],sum=0;
+    n=input_array_size();
+    a[n]=input_array();
     
 }
 int input_array_size()
