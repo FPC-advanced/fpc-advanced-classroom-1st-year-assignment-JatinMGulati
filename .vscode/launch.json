@@ -15,8 +15,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jmgul/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-JatinMGulati/set02",
-      "program": "c:/Users/jmgul/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-JatinMGulati/set02/build/Debug/outDebug",
+      "cwd": "c:/Users/jmgul/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-JatinMGulati/set01",
+      "program": "c:/Users/jmgul/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-JatinMGulati/set01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
