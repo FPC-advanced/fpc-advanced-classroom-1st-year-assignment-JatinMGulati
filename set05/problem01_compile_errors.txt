@@ -34,3 +34,12 @@ c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
  }
  ^
 Compilation finished at 11/14/2023, 10:07:20 PM
+Compilation started at 11/14/2023, 10:08:42 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:35:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c: In function 'output':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:41:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation finished at 11/14/2023, 10:08:42 PM
