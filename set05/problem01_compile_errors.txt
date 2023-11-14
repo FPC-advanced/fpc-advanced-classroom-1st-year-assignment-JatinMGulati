@@ -52,3 +52,23 @@ c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
  }
  ^
 Compilation finished at 11/14/2023, 10:09:51 PM
+Compilation started at 11/14/2023, 11:15:30 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:32:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+Compilation finished at 11/14/2023, 11:15:30 PM
+Compilation started at 11/14/2023, 11:15:44 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:32:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+Compilation finished at 11/14/2023, 11:15:44 PM
+Compilation started at 11/14/2023, 11:16:34 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:32:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+Compilation finished at 11/14/2023, 11:16:34 PM
+Compilation started at 11/14/2023, 11:16:50 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set05\problem01.c:32:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+Compilation finished at 11/14/2023, 11:16:50 PM
