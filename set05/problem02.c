@@ -15,4 +15,7 @@ int main()
     output(radius,height,length,weight);
     return 0;
 }
-void input_camel_details
+void input_camel_details(float *radius, float *height, float *length)
+{
+    printf()
+}
