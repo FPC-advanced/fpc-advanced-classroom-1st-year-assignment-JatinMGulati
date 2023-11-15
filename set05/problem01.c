@@ -28,7 +28,7 @@ Point input()
     scanf("%f %f",&p.x,&p.y);
     return p;
 }
-void dist(Point a, Point b, float *res);
+void dist(Point a, Point b, float *res)
 {
     *res=sqrt(pow((b.x-a.x),2)+pow((b.y-a.y),2));
 }
