@@ -12,5 +12,6 @@ int main()
     float radius,height,length,weight=0;
     input_camel_details(&radius,&height,&length);
     weight=find_weight(radius,length,height);
-    output(radius,height,weight)
+    output(radius,height,length,weight);
+    return 0;
 }
