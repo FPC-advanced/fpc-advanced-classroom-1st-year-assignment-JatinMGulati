@@ -1,0 +1,46 @@
+Compilation started at 11/15/2023, 4:10:54 PM
+Compilation finished at 11/15/2023, 4:10:55 PM
+Compilation started at 11/15/2023, 4:11:05 PM
+Compilation finished at 11/15/2023, 4:11:05 PM
+Compilation started at 11/15/2023, 4:11:13 PM
+Compilation finished at 11/15/2023, 4:11:14 PM
+Compilation started at 11/15/2023, 4:14:44 PM
+Compilation finished at 11/15/2023, 4:14:45 PM
+Compilation started at 11/15/2023, 4:14:53 PM
+Compilation finished at 11/15/2023, 4:14:54 PM
+Compilation started at 11/15/2023, 4:16:04 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem09.c: In function 'square_root':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set01\problem09.c:32:44: error: expected ')' before ';' token
+     for(i=n/2; i*i-n>epsilon; i = (i+n/i)/2;){
+                                            ^
+Compilation finished at 11/15/2023, 4:16:04 PM
+Compilation started at 11/15/2023, 4:16:14 PM
+Compilation finished at 11/15/2023, 4:16:14 PM
+Compilation started at 11/15/2023, 4:17:24 PM
+Compilation finished at 11/15/2023, 4:17:25 PM
+Compilation started at 11/15/2023, 4:18:12 PM
+Compilation finished at 11/15/2023, 4:18:12 PM
+Compilation started at 11/15/2023, 4:18:30 PM
+Compilation finished at 11/15/2023, 4:18:30 PM
+Compilation started at 11/15/2023, 4:18:40 PM
+Compilation finished at 11/15/2023, 4:18:41 PM
+Compilation started at 11/15/2023, 4:18:58 PM
+Compilation finished at 11/15/2023, 4:18:58 PM
+Compilation started at 11/15/2023, 11:11:16 PM
+Compilation finished at 11/15/2023, 11:11:18 PM
+Compilation started at 11/15/2023, 11:19:58 PM
+Compilation finished at 11/15/2023, 11:19:59 PM
+Compilation started at 11/15/2023, 11:20:06 PM
+Compilation finished at 11/15/2023, 11:20:06 PM
+Compilation started at 11/15/2023, 11:20:17 PM
+Compilation finished at 11/15/2023, 11:20:18 PM
+Compilation started at 11/15/2023, 11:22:07 PM
+Compilation finished at 11/15/2023, 11:22:07 PM
+Compilation started at 11/15/2023, 11:22:38 PM
+Compilation finished at 11/15/2023, 11:22:38 PM
+Compilation started at 11/16/2023, 8:17:56 PM
+Compilation finished at 11/16/2023, 8:17:58 PM
+Compilation started at 11/17/2023, 7:01:10 AM
+Compilation finished at 11/17/2023, 7:01:11 AM
+Compilation started at 11/17/2023, 7:01:30 AM
+Compilation finished at 11/17/2023, 7:01:30 AM
