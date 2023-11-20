@@ -18,17 +18,17 @@ float input()
     scanf("%f",&n);
     return n;
 }
-float square_root(float n) 
-{
-    float x = n / 2;
-    float epsilon = 0.000001;
+float square_root(float n){
+    float x=n/2;
+    float epsilon=0.000001;
 
-    while ((x - n / x) > epsilon) {
-        x = 0.5 * (x + n / x);
+    while ((x*x-n)>epsilon || (n-x*x)>epsilon)
+    {
+      x=0.5*(x+n/x);
     }
-
     return x;
 }
+
 void output(float n , float sqrroot)
 {
     printf("Square root of %f is %f",n,sqrroot);
