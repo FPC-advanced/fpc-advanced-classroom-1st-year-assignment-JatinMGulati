@@ -2,7 +2,8 @@
 
 struct _triangle {
 	float base, altitude, area;
-} Triangle;
+}
+ Triangle;
 
 int main() {
 	int n = input_n();
