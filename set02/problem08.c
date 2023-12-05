@@ -53,7 +53,7 @@ void find_n_areas(int n, Triangle t[n])
 Triangle find_smallest_triangle(int n, Triangle t[n]) 
 {
 	Triangle smallest = t[0];
-	for (int i = 1; i < n; i++) {
+	for (int i = 1;i<n; i++) {
 		if (t[i].area < smallest.area) {
 			smallest = t[i];
 		}
