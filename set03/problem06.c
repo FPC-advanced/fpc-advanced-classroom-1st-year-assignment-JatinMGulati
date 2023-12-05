@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Function to input the string and substring
 void input_string(char* a, char* b){
     printf("Enter the string: ");
     scanf("%s", a);
@@ -9,7 +8,6 @@ void input_string(char* a, char* b){
     scanf("%s", b);
 }
 
-// Function to find the index of a substring
 int sub_str_index(char* string, char* substring){
     char* substring_ptr = strstr(string, substring);
     if(substring_ptr != NULL){
@@ -24,14 +22,4 @@ void output(char *string, char *substring, int index){
     } else {
         printf("Substring '%s' found at index %d in string '%s'\n", substring, index, string);
     }
-}
-
-int main(){
-    char a[100], b[100];
-
-    input_string(a, b);
-    int index = sub_str_index(a, b);
-    output(a, b, index);
-
-    return 0;
 }
