@@ -3,7 +3,7 @@
 struct _triangle {
 	float base, altitude, area;
 }
- Triangle;
+typedef struct _triangle Triangle;
 
 int main() {
 	int n = input_n();
