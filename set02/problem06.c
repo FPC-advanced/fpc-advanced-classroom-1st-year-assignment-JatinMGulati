@@ -3,7 +3,7 @@
 
 void input_string(char *a) {
     printf("Enter a string: ");
-    fgets(a, 0,stdin);
+    fgets(a,100,stdin);
 }
 
 void str_reverse(char *str, char *rev_str) {
