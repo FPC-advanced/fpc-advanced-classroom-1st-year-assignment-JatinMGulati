@@ -1,0 +1,5 @@
+Compilation started at 12/5/2023, 12:15:46 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set03\problem05.c:7:11: error: expected ';', ',' or ')' before '{' token
+ int main(){
+           ^
+Compilation finished at 12/5/2023, 12:15:46 PM

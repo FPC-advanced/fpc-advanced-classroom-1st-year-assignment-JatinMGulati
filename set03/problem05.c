@@ -7,7 +7,6 @@ void output(int n, int a[n]);
 int main(){
     int n = input_array_size();
     int a[n];
-
     init_array(n, a);
     erotosthenes_sieve(n, a);
     output(n, a);
@@ -22,14 +21,12 @@ int input_array_size(){
     return n;
 }
 
-// Functio
 void init_array(int n, int a[n]){
     for(int i = 0; i < n; i++){
         a[i] = i + 2;
     }
 }
 
-// Function to implement the Eratosthenes Sieve method
 void erotosthenes_sieve(int n, int a[n]){
     int i, j;
 
@@ -48,7 +45,6 @@ void erotosthenes_sieve(int n, int a[n]){
     }
 }
 
-// Function to output the result
 void output(int n, int a[n]){
     for(int i = 0; i < n; i++){
         if(a[i] == 1){
