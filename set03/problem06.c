@@ -1,6 +1,16 @@
 #include <stdio.h>
 #include <string.h>
 
+int main(){
+    char a[100], b[100];
+
+    input_string(a, b);
+    int index = sub_str_index(a, b);
+    output(a, b, index);
+
+    return 0;
+}
+
 void input_string(char* a, char* b){
     printf("Enter the string: ");
     scanf("%s", a);
