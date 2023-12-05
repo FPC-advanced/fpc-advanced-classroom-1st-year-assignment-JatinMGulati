@@ -3,7 +3,7 @@
 
 void input_string(char *a) {
     printf("Enter a string: ");
-    fgets(a,100,stdin);
+    fgets(a, 100, stdin);
 }
 
 void str_reverse(char *str, char *rev_str) {
@@ -18,14 +18,4 @@ void str_reverse(char *str, char *rev_str) {
 
 void output(char *a, char *reverse_a) {
     printf("The reversed string is: %s", reverse_a);
-}
-
-int main() {
-    char string[100];
-    char reverse_string[100];
-
-    input_string(string);
-    str_reverse(string, reverse_string);
-    output(string, reverse_string);
-    return 0;
 }
