@@ -9,7 +9,6 @@ int main(){
     return 0;
 }
 
-// Function to input a point
 Point input_point(){
     Point p;
     printf("Enter the x and y coordinates of the point: ");
@@ -17,7 +16,6 @@ Point input_point(){
     return p;
 }
 
-// Function to input a line
 Line input_line(){
     Line l;
     printf("Enter the coordinates of the first point: ");
@@ -27,14 +25,12 @@ Line input_line(){
     return l;
 }
 
-// Function to find the length of a line
 void find_length(Line *l){
     float dx = l->p2.x - l->p1.x;
     float dy = l->p2.y - l->p1.y;
     l->distance = sqrt(dx * dx + dy * dy);
 }
 
-// Function to output the result
 void output(Line l){
     printf("The length of the line from point (%.2f, %.2f) to point (%.2f, %.2f) is %.2f\n", 
            l.p1.x, l.p1.y, l.p2.x, l.p2.y, l.distance);
