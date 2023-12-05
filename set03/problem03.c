@@ -8,13 +8,16 @@ void output(int n, int result);
 int main()
 {
     int n,result;
-    n=
+    n=input_number();
+    result = is_prime(n);
+    output(n, result);
+    return 0;
 }
 int input_number()
 {
     int x;
     printf("Enter the value:");
-    scanf("%d",x);
+    scanf("%d",&x);
     return x;
 }
 int is_prime(int n){
