@@ -1,6 +1,16 @@
 #include <stdio.h>
 #include <string.h>
 
+int main() {
+    char string[100];
+    char reverse_string[100];
+
+    input_string(string);
+    str_reverse(string, reverse_string);
+    output(string, reverse_string);
+    return 0;
+}
+
 void input_string(char *a) {
     printf("Enter a string: ");
     fgets(a, 100, stdin);
