@@ -5,7 +5,8 @@ struct _triangle {
 }
 typedef struct _triangle Triangle;
 
-int main() {
+int main() 
+{
 	int n=input_n();
 	Triangle t[n];
 	input_n_triangles(n,t);
@@ -15,17 +16,18 @@ int main() {
 	return 0;
 }
 
-int input_n() {
+int input_n() 
+{
 	int n;
 	printf("Enter the number of triangles: ");
-	scanf("%d", &n);
+	scanf("%d",&n);
 	return n;
 }
 
 Triangle input_triangle() {
 	Triangle t;
 	printf("Enter the base, altitude of the triangle: ");
-	scanf("%f %f", &t.base, &t.altitude);
+	scanf("%f %f",&t.base,&t.altitude);
 	return t;
 }
 
