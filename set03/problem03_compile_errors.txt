@@ -1,0 +1,12 @@
+Compilation started at 12/5/2023, 12:00:12 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set03\problem03.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set03\problem03.c:12:1: error: expected expression before '}' token
+ }
+ ^
+Compilation finished at 12/5/2023, 12:00:12 PM
+Compilation started at 12/5/2023, 12:00:24 PM
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set03\problem03.c: In function 'main':
+c:\Users\jmgul\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-JatinMGulati\set03\problem03.c:12:1: error: expected expression before '}' token
+ }
+ ^
+Compilation finished at 12/5/2023, 12:00:24 PM
