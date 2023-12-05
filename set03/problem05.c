@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+int input_array_size();
+void init_array(int n, int a[n];
+void erotosthenes_sieve(int n, int a[n]);
+void output(int n, int a[n]);
 
 int main(){
     int n = input_array_size();
@@ -12,7 +15,6 @@ int main(){
     return 0;
 }
 
-// Function to input the size of the array
 int input_array_size(){
     int n;
     printf("Enter the size of the array: ");
@@ -20,7 +22,7 @@ int input_array_size(){
     return n;
 }
 
-// Function to initialize the array
+// Functio
 void init_array(int n, int a[n]){
     for(int i = 0; i < n; i++){
         a[i] = i + 2;
